@@ -58,7 +58,6 @@ After receiving whitelist instructions via email, you will need to submit two ad
 
 **Important**: Remember to:
 - Save both the private key and public address
-- **Only** share the public address with us
 
 ## Monitoring Your Node
 
